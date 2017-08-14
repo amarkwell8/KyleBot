@@ -1,0 +1,29 @@
+{
+  "name": "kylebot",
+  "version": "1.0.0",
+  "description": "Kyle isn't human!",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "lodash": "^4.17.4",
+    "node-rest-client": "^3.1.0",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarkwell8/KyleBot.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Austin Markwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarkwell8/KyleBot/issues"
+  },
+  "homepage": "https://github.com/amarkwell8/KyleBot#readme"
+}
